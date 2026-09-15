@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07_TwoDementionArray", "07_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_EnumCycles", "04_EnumCycles\04_EnumCycles.vcxproj", "{FEEF4767-774C-4ACF-A6EC-98CBFF759F10}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_EnumCycles_hw", "04_EnumCycles_hw\04_EnumCycles_hw.vcxproj", "{1CAE24BA-DAD6-4C0D-B98D-2C89A11C5A5E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{FEEF4767-774C-4ACF-A6EC-98CBFF759F10}.Release|x64.Build.0 = Release|x64
 		{FEEF4767-774C-4ACF-A6EC-98CBFF759F10}.Release|x86.ActiveCfg = Release|Win32
 		{FEEF4767-774C-4ACF-A6EC-98CBFF759F10}.Release|x86.Build.0 = Release|Win32
+		{1CAE24BA-DAD6-4C0D-B98D-2C89A11C5A5E}.Debug|x64.ActiveCfg = Debug|x64
+		{1CAE24BA-DAD6-4C0D-B98D-2C89A11C5A5E}.Debug|x64.Build.0 = Debug|x64
+		{1CAE24BA-DAD6-4C0D-B98D-2C89A11C5A5E}.Debug|x86.ActiveCfg = Debug|Win32
+		{1CAE24BA-DAD6-4C0D-B98D-2C89A11C5A5E}.Debug|x86.Build.0 = Debug|Win32
+		{1CAE24BA-DAD6-4C0D-B98D-2C89A11C5A5E}.Release|x64.ActiveCfg = Release|x64
+		{1CAE24BA-DAD6-4C0D-B98D-2C89A11C5A5E}.Release|x64.Build.0 = Release|x64
+		{1CAE24BA-DAD6-4C0D-B98D-2C89A11C5A5E}.Release|x86.ActiveCfg = Release|Win32
+		{1CAE24BA-DAD6-4C0D-B98D-2C89A11C5A5E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
