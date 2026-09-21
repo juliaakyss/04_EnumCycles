@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09_TemplateFunction", "09_T
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06_Array_Hw", "06_Array_Hw\06_Array_Hw.vcxproj", "{6F5270C6-E343-4CBB-8CC2-23C6F9723F20}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11_Recursion_QuickSort", "11_Recursion_QuickSort\11_Recursion_QuickSort.vcxproj", "{8EF3AA70-9BB7-455C-AB61-B75CC81015A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{6F5270C6-E343-4CBB-8CC2-23C6F9723F20}.Release|x64.Build.0 = Release|x64
 		{6F5270C6-E343-4CBB-8CC2-23C6F9723F20}.Release|x86.ActiveCfg = Release|Win32
 		{6F5270C6-E343-4CBB-8CC2-23C6F9723F20}.Release|x86.Build.0 = Release|Win32
+		{8EF3AA70-9BB7-455C-AB61-B75CC81015A5}.Debug|x64.ActiveCfg = Debug|x64
+		{8EF3AA70-9BB7-455C-AB61-B75CC81015A5}.Debug|x64.Build.0 = Debug|x64
+		{8EF3AA70-9BB7-455C-AB61-B75CC81015A5}.Debug|x86.ActiveCfg = Debug|Win32
+		{8EF3AA70-9BB7-455C-AB61-B75CC81015A5}.Debug|x86.Build.0 = Debug|Win32
+		{8EF3AA70-9BB7-455C-AB61-B75CC81015A5}.Release|x64.ActiveCfg = Release|x64
+		{8EF3AA70-9BB7-455C-AB61-B75CC81015A5}.Release|x64.Build.0 = Release|x64
+		{8EF3AA70-9BB7-455C-AB61-B75CC81015A5}.Release|x86.ActiveCfg = Release|Win32
+		{8EF3AA70-9BB7-455C-AB61-B75CC81015A5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
