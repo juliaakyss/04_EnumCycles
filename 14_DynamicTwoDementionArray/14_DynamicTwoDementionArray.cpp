@@ -11,7 +11,6 @@ void InitArray(int** arr, int rows, int cols)
 		}
 	}
 }
-
 void ShowArray(int** arr, int rows, int cols)
 {
 	for (int i = 0; i < rows; i++)
@@ -123,8 +122,9 @@ int main()
 	for (int i = 0; i < rows; i++)
 	{
 		delete[] arr[i];
+
 	}
 	delete[] arr;
-
 	return 0;
 }
+
